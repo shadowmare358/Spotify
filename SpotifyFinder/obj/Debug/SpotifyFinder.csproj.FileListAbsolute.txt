@@ -1,0 +1,66 @@
+C:\Users\honda\Documents\Visual Studio 2015\Projects\SpotifyFinder\SpotifyFinder\bin\Debug\SpotifyFinder.exe.config
+C:\Users\honda\Documents\Visual Studio 2015\Projects\SpotifyFinder\SpotifyFinder\bin\Debug\SpotifyFinder.exe
+C:\Users\honda\Documents\Visual Studio 2015\Projects\SpotifyFinder\SpotifyFinder\bin\Debug\SpotifyFinder.pdb
+C:\Users\honda\Documents\Visual Studio 2015\Projects\SpotifyFinder\SpotifyFinder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\honda\Documents\Visual Studio 2015\Projects\SpotifyFinder\SpotifyFinder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\honda\Documents\Visual Studio 2015\Projects\SpotifyFinder\SpotifyFinder\obj\Debug\SpotifyFinder.csprojResolveAssemblyReference.cache
+C:\Users\honda\Documents\Visual Studio 2015\Projects\SpotifyFinder\SpotifyFinder\obj\Debug\MainWindow.g.cs
+C:\Users\honda\Documents\Visual Studio 2015\Projects\SpotifyFinder\SpotifyFinder\obj\Debug\App.g.cs
+C:\Users\honda\Documents\Visual Studio 2015\Projects\SpotifyFinder\SpotifyFinder\obj\Debug\SpotifyFinder_MarkupCompile.cache
+C:\Users\honda\Documents\Visual Studio 2015\Projects\SpotifyFinder\SpotifyFinder\obj\Debug\SpotifyFinder_MarkupCompile.lref
+C:\Users\honda\Documents\Visual Studio 2015\Projects\SpotifyFinder\SpotifyFinder\obj\Debug\MainWindow.baml
+C:\Users\honda\Documents\Visual Studio 2015\Projects\SpotifyFinder\SpotifyFinder\obj\Debug\SpotifyFinder.g.resources
+C:\Users\honda\Documents\Visual Studio 2015\Projects\SpotifyFinder\SpotifyFinder\obj\Debug\SpotifyFinder.Properties.Resources.resources
+C:\Users\honda\Documents\Visual Studio 2015\Projects\SpotifyFinder\SpotifyFinder\obj\Debug\SpotifyFinder.csproj.GenerateResource.Cache
+C:\Users\honda\Documents\Visual Studio 2015\Projects\SpotifyFinder\SpotifyFinder\obj\Debug\SpotifyFinder.exe
+C:\Users\honda\Documents\Visual Studio 2015\Projects\SpotifyFinder\SpotifyFinder\obj\Debug\SpotifyFinder.pdb
+C:\Users\Shadowmare\Desktop\Nowy folder (11)\SpotFinder\SpotifyFinder\SpotifyFinder\bin\Debug\SpotifyFinder.exe.config
+C:\Users\Shadowmare\Desktop\Nowy folder (11)\SpotFinder\SpotifyFinder\SpotifyFinder\bin\Debug\SpotifyFinder.exe
+C:\Users\Shadowmare\Desktop\Nowy folder (11)\SpotFinder\SpotifyFinder\SpotifyFinder\bin\Debug\SpotifyFinder.pdb
+C:\Users\Shadowmare\Desktop\Nowy folder (11)\SpotFinder\SpotifyFinder\SpotifyFinder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Shadowmare\Desktop\Nowy folder (11)\SpotFinder\SpotifyFinder\SpotifyFinder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Shadowmare\Desktop\Nowy folder (11)\SpotFinder\SpotifyFinder\SpotifyFinder\obj\Debug\SpotifyFinder.csprojAssemblyReference.cache
+C:\Users\Shadowmare\Desktop\Nowy folder (11)\SpotFinder\SpotifyFinder\SpotifyFinder\obj\Debug\MainWindow.g.cs
+C:\Users\Shadowmare\Desktop\Nowy folder (11)\SpotFinder\SpotifyFinder\SpotifyFinder\obj\Debug\App.g.cs
+C:\Users\Shadowmare\Desktop\Nowy folder (11)\SpotFinder\SpotifyFinder\SpotifyFinder\obj\Debug\SpotifyFinder_MarkupCompile.cache
+C:\Users\Shadowmare\Desktop\Nowy folder (11)\SpotFinder\SpotifyFinder\SpotifyFinder\obj\Debug\SpotifyFinder_MarkupCompile.lref
+C:\Users\Shadowmare\Desktop\Nowy folder (11)\SpotFinder\SpotifyFinder\SpotifyFinder\obj\Debug\MainWindow.baml
+C:\Users\Shadowmare\Desktop\Nowy folder (11)\SpotFinder\SpotifyFinder\SpotifyFinder\obj\Debug\SpotifyFinder.g.resources
+C:\Users\Shadowmare\Desktop\Nowy folder (11)\SpotFinder\SpotifyFinder\SpotifyFinder\obj\Debug\SpotifyFinder.Properties.Resources.resources
+C:\Users\Shadowmare\Desktop\Nowy folder (11)\SpotFinder\SpotifyFinder\SpotifyFinder\obj\Debug\SpotifyFinder.csproj.GenerateResource.cache
+C:\Users\Shadowmare\Desktop\Nowy folder (11)\SpotFinder\SpotifyFinder\SpotifyFinder\obj\Debug\SpotifyFinder.csproj.CoreCompileInputs.cache
+C:\Users\Shadowmare\Desktop\Nowy folder (11)\SpotFinder\SpotifyFinder\SpotifyFinder\obj\Debug\SpotifyFinder.csproj.CopyComplete
+C:\Users\Shadowmare\Desktop\Nowy folder (11)\SpotFinder\SpotifyFinder\SpotifyFinder\obj\Debug\SpotifyFinder.exe
+C:\Users\Shadowmare\Desktop\Nowy folder (11)\SpotFinder\SpotifyFinder\SpotifyFinder\obj\Debug\SpotifyFinder.pdb
+C:\Users\Shadowmare\Desktop\Nowy folder (11)\SpotFinder\SpotifyFinder\SpotifyFinder\obj\Debug\Pages\AlbumListPage.g.cs
+C:\Users\Shadowmare\Desktop\Nowy folder (11)\SpotFinder\SpotifyFinder\SpotifyFinder\obj\Debug\Pages\AlbumListPage.baml
+C:\Users\Shadowmare\Desktop\Nowy folder (11)\SpotFinder\SpotifyFinder\SpotifyFinder\obj\Debug\Pages\AlbumDetailsPage.g.cs
+C:\Users\Shadowmare\Desktop\Nowy folder (11)\SpotFinder\SpotifyFinder\SpotifyFinder\obj\Debug\Pages\AlbumDetailsPage.baml
+C:\Users\Shadowmare\Desktop\Nowy folder (11)\SpotFinder\SpotifyFinder\SpotifyFinder\bin\Debug\NAudio.dll
+C:\Users\Shadowmare\Desktop\Nowy folder (11)\SpotFinder\SpotifyFinder\SpotifyFinder\bin\Debug\NSpeex.dll
+C:\Users\Shadowmare\Desktop\Nowy folder (11)\SpotFinder\SpotifyFinder\SpotifyFinder\bin\Debug\NAudio.xml
+C:\Users\Shadowmare\Desktop\SpotifyFinder\SpotFinder\SpotifyFinder\SpotifyFinder\bin\Debug\SpotifyFinder.exe.config
+C:\Users\Shadowmare\Desktop\SpotifyFinder\SpotFinder\SpotifyFinder\SpotifyFinder\bin\Debug\SpotifyFinder.exe
+C:\Users\Shadowmare\Desktop\SpotifyFinder\SpotFinder\SpotifyFinder\SpotifyFinder\bin\Debug\SpotifyFinder.pdb
+C:\Users\Shadowmare\Desktop\SpotifyFinder\SpotFinder\SpotifyFinder\SpotifyFinder\bin\Debug\NAudio.dll
+C:\Users\Shadowmare\Desktop\SpotifyFinder\SpotFinder\SpotifyFinder\SpotifyFinder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Shadowmare\Desktop\SpotifyFinder\SpotFinder\SpotifyFinder\SpotifyFinder\bin\Debug\NSpeex.dll
+C:\Users\Shadowmare\Desktop\SpotifyFinder\SpotFinder\SpotifyFinder\SpotifyFinder\bin\Debug\NAudio.xml
+C:\Users\Shadowmare\Desktop\SpotifyFinder\SpotFinder\SpotifyFinder\SpotifyFinder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Shadowmare\Desktop\SpotifyFinder\SpotFinder\SpotifyFinder\SpotifyFinder\obj\Debug\SpotifyFinder.csprojAssemblyReference.cache
+C:\Users\Shadowmare\Desktop\SpotifyFinder\SpotFinder\SpotifyFinder\SpotifyFinder\obj\Debug\MainWindow.g.cs
+C:\Users\Shadowmare\Desktop\SpotifyFinder\SpotFinder\SpotifyFinder\SpotifyFinder\obj\Debug\Pages\AlbumDetailsPage.g.cs
+C:\Users\Shadowmare\Desktop\SpotifyFinder\SpotFinder\SpotifyFinder\SpotifyFinder\obj\Debug\Pages\AlbumListPage.g.cs
+C:\Users\Shadowmare\Desktop\SpotifyFinder\SpotFinder\SpotifyFinder\SpotifyFinder\obj\Debug\App.g.cs
+C:\Users\Shadowmare\Desktop\SpotifyFinder\SpotFinder\SpotifyFinder\SpotifyFinder\obj\Debug\SpotifyFinder_MarkupCompile.cache
+C:\Users\Shadowmare\Desktop\SpotifyFinder\SpotFinder\SpotifyFinder\SpotifyFinder\obj\Debug\SpotifyFinder_MarkupCompile.lref
+C:\Users\Shadowmare\Desktop\SpotifyFinder\SpotFinder\SpotifyFinder\SpotifyFinder\obj\Debug\MainWindow.baml
+C:\Users\Shadowmare\Desktop\SpotifyFinder\SpotFinder\SpotifyFinder\SpotifyFinder\obj\Debug\Pages\AlbumDetailsPage.baml
+C:\Users\Shadowmare\Desktop\SpotifyFinder\SpotFinder\SpotifyFinder\SpotifyFinder\obj\Debug\Pages\AlbumListPage.baml
+C:\Users\Shadowmare\Desktop\SpotifyFinder\SpotFinder\SpotifyFinder\SpotifyFinder\obj\Debug\SpotifyFinder.g.resources
+C:\Users\Shadowmare\Desktop\SpotifyFinder\SpotFinder\SpotifyFinder\SpotifyFinder\obj\Debug\SpotifyFinder.Properties.Resources.resources
+C:\Users\Shadowmare\Desktop\SpotifyFinder\SpotFinder\SpotifyFinder\SpotifyFinder\obj\Debug\SpotifyFinder.csproj.GenerateResource.cache
+C:\Users\Shadowmare\Desktop\SpotifyFinder\SpotFinder\SpotifyFinder\SpotifyFinder\obj\Debug\SpotifyFinder.csproj.CoreCompileInputs.cache
+C:\Users\Shadowmare\Desktop\SpotifyFinder\SpotFinder\SpotifyFinder\SpotifyFinder\obj\Debug\SpotifyFinder.csproj.CopyComplete
+C:\Users\Shadowmare\Desktop\SpotifyFinder\SpotFinder\SpotifyFinder\SpotifyFinder\obj\Debug\SpotifyFinder.exe
+C:\Users\Shadowmare\Desktop\SpotifyFinder\SpotFinder\SpotifyFinder\SpotifyFinder\obj\Debug\SpotifyFinder.pdb

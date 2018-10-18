@@ -1,0 +1,17 @@
+﻿<Page x:Class="SpotifyFinder.Pages.AlbumDetailsPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:SpotifyFinder.Pages"
+      mc:Ignorable="d"
+      Title="AlbumDetailsPage" Loaded="OnPageLoaded" Height="500" Width="800">
+
+    <Grid>
+        <Image x:Name="BigImage" HorizontalAlignment="Left" Height="160" Margin="55,40,0,0" VerticalAlignment="Top" Width="223"/>
+        <Button Content="Wroc do albumu" HorizontalAlignment="Left" Margin="160,267,0,0" VerticalAlignment="Top" Width="136" Height="48" Click="Button_Click"/>
+        <ListBox x:Name="Lista_utworow" HorizontalAlignment="Left" Height="227" Margin="90,30,0,0" VerticalAlignment="Top" Width="268" SelectionChanged="Lista_utworow_SelectionChanged"/>
+        <Label Content="Choose track from list" HorizontalAlignment="Left" Margin="70,4,0,0" VerticalAlignment="Top" Width="268"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="55,281,0,0" VerticalAlignment="Top" Width="74" Click="Button_Click_2"/>
+    </Grid>
+</Page>
